@@ -1,1 +1,2 @@
-# colors
+# Colors
+Just a practise project
